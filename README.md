@@ -1,19 +1,43 @@
-## 💼 Resumo Profissional
+# 👨‍💻 Gabriel Queiroz | Tecnologia • Gestão • Pessoas
 
-Profissional de Tecnologia da Informação especializado em gestão de equipes, liderança de projetos e otimização de processos, com experiência no setor de telecomunicações. Atualmente, gerencio um time de 13 profissionais, atuando no alinhamento de metas, acompanhamento de indicadores de desempenho (KPIs) e desenvolvimento de talentos.
+# 📌 Sobre
 
-## 🎓 Formação e Competências
+Profissional da área de **Tecnologia da Informação**, com experiência em **gestão de equipes**, **liderança de projetos** e **otimização de processos**, atuando no setor de **telecomunicações**.  
+Atualmente responsável pela gestão de uma equipe com **13 profissionais**, com foco em alinhamento estratégico, acompanhamento de **KPIs** e desenvolvimento de talentos, visando resultados consistentes e sustentáveis.
 
-Em fase de conclusão da graduação em Engenharia de Software, possuo sólida base técnica combinada a habilidades de liderança, comunicação e resolução de problemas. Tenho vivência na coordenação de equipes multidisciplinares, definição de estratégias operacionais e implementação de melhorias para aumento de produtividade e eficiência.
+# 🧠 Competências
 
-## 🚀 Diferenciais
+## Formação Acadêmica
+- **Engenharia de Software**  
+  *Graduação em fase de conclusão*
+  
+## Técnicas
+- Gestão de indicadores de desempenho (KPIs)
+- Otimização e melhoria de processos
+- Planejamento e execução de projetos
+- Análise e resolução de problemas complexos
 
-- Experiência prática em gestão de times no setor de tecnologia.  
-- Capacidade de transformar problemas complexos em soluções eficientes e escaláveis.  
-- Perfil comunicativo, analítico e orientado a resultados.  
-- Leitor assíduo e entusiasta de inovação e cultura nerd.  
-- Valores sólidos e postura ética alinhada a princípios cristãos.
+## Comportamentais
+- Liderança de equipes multidisciplinares
+- Comunicação clara e objetiva
+- Pensamento analítico e estratégico
+- Orientação a resultados
 
-## 📌 Objetivo
+# 🚀 Diferenciais
 
-Unir tecnologia, gestão e pessoas para gerar impacto real e sustentável, entregando resultados consistentes para empresas que valorizam inovação, desenvolvimento humano e excelência operacional.
+- Experiência prática em **gestão de times de tecnologia**
+- Capacidade de transformar desafios complexos em **soluções escaláveis**
+- Perfil **analítico**, **comunicativo** e **proativo**
+- Interesse contínuo por **inovação** e **cultura nerd**
+- Postura ética sólida, fundamentada em **princípios cristãos**
+
+# 🎯 Objetivo Profissional
+
+Unir **tecnologia**, **gestão** e **desenvolvimento de pessoas** para gerar impacto real e sustentável, contribuindo para empresas que valorizam inovação, excelência operacional e crescimento humano.
+
+# 📫 Contato
+
+- 💼 LinkedIn: *https://www.linkedin.com/in/gabrielqsousa*  
+- 📧 E-mail: *gabrielqdsousa@gmail.com*  
+
+> _“Tecnologia é a ferramenta. As pessoas são o diferencial.”_
